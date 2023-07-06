@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "homework1",
+    "homework2",
+    "rustlings",
+]
